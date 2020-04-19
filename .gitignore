@@ -1,0 +1,11 @@
+data/FashionMNIST/FashionMNIST/raw/t10k-images-idx3-ubyte.gz
+data/FashionMNIST/FashionMNIST/raw/t10k-labels-idx1-ubyte
+data/FashionMNIST/FashionMNIST/raw/t10k-images-idx3-ubyte
+data/FashionMNIST/FashionMNIST/raw/t10k-labels-idx1-ubyte.gz
+data/FashionMNIST/FashionMNIST/raw/train-images-idx3-ubyte
+data/FashionMNIST/FashionMNIST/raw/train-images-idx3-ubyte.gz
+data/FashionMNIST/FashionMNIST/raw/train-labels-idx1-ubyte
+data/FashionMNIST/FashionMNIST/raw/train-labels-idx1-ubyte.gz
+data/FashionMNIST/FashionMNIST/processed/training.pt
+data/FashionMNIST/FashionMNIST/processed/test.pt
+best_model
